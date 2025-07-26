@@ -1,8 +1,8 @@
 lineTracerMiniProject
 =====================
+[![동작 영상](https://img.youtube.com/vi/w05PVpyQB1Q/0.jpg)](https://youtu.be/w05PVpyQB1Q?si=1QaCnkQf9zZYeqEj)
 
 **Arduino Uno 기반 RC카 라인트레이싱 프로젝트**
-[![동작 영상](https://img.youtube.com/vi/w05PVpyQB1Q/0.jpg)](https://youtu.be/w05PVpyQB1Q?si=1QaCnkQf9zZYeqEj)
 
 **기간:** 2025.07.22 ~ 2025.07.24  
 **목적:** IR 센서 및 리모컨 제어 기반 라인트레이싱 기능 구현
